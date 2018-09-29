@@ -11,9 +11,11 @@ Description: A sketch
 Credits for code referenced:
 https://processing.org/tutorials/color/
 https://processing.org/tutorials/pshape/
+https://processing.org/reference/mousePressed.html
+https://processing.org/tutorials/transform2d/
+https://processing.org/examples/rotate.html
 
-
-Notes: Uses Pshape, rectangle, color, background, draw
+Notes: Uses Pshape, rotate, ellipse, draw, color, mousepressed
 */
 
 PShape ellipse;
